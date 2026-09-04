@@ -10,7 +10,7 @@ const today = new Date().toLocaleDateString(undefined, {
 
 const starterTasks = [
   { id: 1, text: 'Water the balcony plants', done: true },
-  { id: 2, text: 'Reply to Priya about the trip', done: false },
+  { id: 2, text: 'reply to emails', done: false },
   { id: 3, text: 'Sketch the new logo concept', done: false },
 ]
 
